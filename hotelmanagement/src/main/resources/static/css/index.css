@@ -1,0 +1,41 @@
+
+body{
+	margin: 0;
+	padding: 0;
+	background-color: peachpuff;
+	}
+
+
+
+h1{
+	
+  background-color:chocolate ;
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+  
+}
+a{
+ 
+ margin:300px;
+ font-size: 20px;	
+}
+
+a:link {
+    color: red;
+}
+
+
+a:visited {
+    color: green;
+}
+
+
+a:hover {
+    color: hotpink;
+}
+
+
+a:active {
+    color: blue;
+}

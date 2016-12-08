@@ -1,0 +1,52 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: peachpuff;
+	}
+
+table, th, td {
+   border: 1px solid black;
+   width: 70%;
+   height:40%;
+   text-align: center;
+   margin-top: 20px;
+   margin-left: 100px;
+   
+  
+}
+#error{
+	
+	text-align: center;
+	color: red;
+}
+#outercontainer{
+	padding-left: 100px;
+	clear: left;
+	
+}
+
+#response{
+padding-left: 110px;
+	clear: left;	
+}
+#CitySection{
+padding-left: 110px;
+}
+
+
+h1{
+	
+  background-color:chocolate ;
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+
+#button{
+text-align: center;
+padding-left: 60px;
+margin: 40px;
+clear: left;	
+	
+}
